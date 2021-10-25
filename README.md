@@ -5,7 +5,7 @@
 <p>To size to your face, find the distance between your eyeline and the bottom of your chin in millimeters, and divide by 119. This is your scale factor, which you enter into your 3D print slicer to size the print.</p>
 <p>Example:<br>
   <b>127 / 119 = 1.067</b><br>
-<img src="https://user-images.githubusercontent.com/20638863/138621753-03c0a724-9ff9-442f-b3ab-ef8a911d2305.jpg" alt="Scaling the mask" width="540" height="290"></p>
+<img src="https://user-images.githubusercontent.com/20638863/138623871-b65c3580-b2e0-4b05-a3da-2cc453277adb.jpg" alt="Scaling the mask" width="540" height="220"></p>
 <h2>Recommended print orientation</h2>
 <p>Print inverted with a 15 degeee incline. Turn on supports.</p>
 <img src="https://user-images.githubusercontent.com/20638863/138619672-872ad32e-0919-42fa-8e1a-dfd98508fc92.jpg" alt="Recommended print orientation" width="100%" height="auto">
